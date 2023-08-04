@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Mi nombre es Juan Sánchez Avila. Soy un desarrollador Web Full-Stack<br>en constante aprendizaje. Con muchas ganas de aportar mis conocimientos en<br>en el rubro IT y así seguir creciendo como profesional y como personal.
+Hola! Mi nombre es Juan Sánchez Avila. Soy un desarrollador Web Full-Stack<br>en constante aprendizaje. Con muchas ganas de aportar mis conocimientos en<br>en el rubro IT y así seguir creciendo como profesional y como persona.
 
 
 ## 🌐 Socials:
